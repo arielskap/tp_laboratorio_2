@@ -1,0 +1,13 @@
+D:\Tps\tp1\new\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Tps\tp1\new\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Tps\tp1\new\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Tps\tp1\new\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\Tps\tp1\new\Entidades\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+D:\Tps\tp1\new\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Tps\tp1\new\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\Tps\tp1\new\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Tps\tp1\new\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Tps\tp1\new\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\Tps\tp1\new\Entidades\MiCalculadora\bin\Debug\Entidades.dll
+D:\Tps\tp1\new\Entidades\MiCalculadora\bin\Debug\Entidades.pdb
+D:\Tps\tp1\new\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
